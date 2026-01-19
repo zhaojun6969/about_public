@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Coder ! on 赵军工作频道</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Hello Coder ! on 赵军工作频道</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2025 12:27:35 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>赵军的个人简介</title>
+      <link>http://localhost:1313/about/me/</link>
+      <pubDate>Sun, 12 Jan 2025 12:27:35 +0800</pubDate>
+      <guid>http://localhost:1313/about/me/</guid>
+      <description>&lt;h3 id=&#34;四川师范大学&#34;&gt;四川师范大学&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2013.09 - 2017.06&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;姓名&lt;/strong&gt;: 赵军&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;邮箱&lt;/strong&gt;: &lt;a href=&#34;mailto:2732810281@qq.com&#34;&gt;2732810281@qq.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;QQ&lt;/strong&gt;: 2732810281&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;地址&lt;/strong&gt;: 四川省成都市金牛区&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;技能&#34;&gt;技能&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;编程语言&lt;/strong&gt;: 熟练掌握 javascript 和 Python。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;技术栈&lt;/strong&gt;: 全文检索及向量检索、大模型相关应用开发、RabbitMQ、MySQL、PostgreSQL、MongoDB、Redis、Gitea、Docker 等。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;架构经验&lt;/strong&gt;: 熟悉微服务架构及 CI/CD，具备高并发场景的实际解决经验，有后端软件架构能力。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;数据分析&lt;/strong&gt;: 熟练掌握时序数据可视化及分析，掌握常用机器学习算法。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;项目经验&lt;/strong&gt;: 有从0到1的产品构建成功经验。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;量化分析系统&#34;&gt;量化分析系统&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2020.04 - 至今&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;全流程金融数据分析框架: 实现数据抓取、因子生成、数据研究、机器学习建模、结果评估、模型上线的全链路。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;历史数据抓取、清理、增量数据入库（MongoDB）。&lt;/li&gt;&#xA;&lt;li&gt;从0实现遗传算法、决策树、随机森林算法、GBDT、朴素贝叶斯算法。&lt;/li&gt;&#xA;&lt;li&gt;集成 PyTorch 和 scikit-learn 的深度学习模型模板。&lt;/li&gt;&#xA;&lt;li&gt;模型、因子可视化评估，相关性分析，数据分布分析，稳定性分析，归因分析，数据重放/回测等。&lt;/li&gt;&#xA;&lt;li&gt;数据预处理模块，归一化，标准化，异常值处理等。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;开源框架&#34;&gt;开源框架&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;2017.10 - 至今&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;这是一个后端开发框架，类似 express 。底层直接基于 http/https  模块，除数据库链接库外，不依赖任何第三方库。集成了常用开发脚手架，便于敏捷开发&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;代码热更新&lt;/li&gt;&#xA;&lt;li&gt;自动路由，解析规则为（目录名/文件名/类名）&lt;/li&gt;&#xA;&lt;li&gt;实现了 http的 body  协议解析（文件上传及文本 body）&lt;/li&gt;&#xA;&lt;li&gt;实现了基于 json  配置的参数验证方式（避免了大量的 if-else）&lt;/li&gt;&#xA;&lt;li&gt;实现了 jwt/session  的鉴权管理&lt;/li&gt;&#xA;&lt;li&gt;地址: &lt;a href=&#34;https://xxx.com&#34;&gt;https://xxx.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;感谢您花时间阅读我的简历！如果您有任何问题或合作机会，欢迎随时联系我！&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#66d9ef&#34;&gt;as&lt;/span&gt; pd&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;DataFrame()&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>First_post</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Sun, 12 Jan 2025 12:27:18 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;First_post的文章内容&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>博客搭建教程</title>
+      <link>http://localhost:1313/timeline/project/</link>
+      <pubDate>Sun, 12 Jan 2025 12:03:24 +0800</pubDate>
+      <guid>http://localhost:1313/timeline/project/</guid>
+      <description>&lt;ul class=&#34;timeline timeline-vertical&#34;&gt;&#xA;  &lt;li&gt;&#xA;    &lt;div class=&#34;timeline-start timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;20250201&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;等待开发&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;  &lt;li&gt;&#xA;    &lt;hr /&gt;&#xA;    &lt;div class=&#34;timeline-end timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;20250101&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;博客上线&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;  &lt;li&gt;&#xA;    &lt;hr /&gt;&#xA;    &lt;div class=&#34;timeline-start timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;20241001&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;博客开发&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+/* 分页容器 */
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    list-style: none;
+    margin: 0;
+}
+
+/* 分页项 */
+.page-item {
+    margin: 0 4px;
+}
+
+/* 分页链接 */
+.page-link {
+    display: block;
+    padding: 8px 16px;
+    color: #333;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+/* 分页链接悬停效果 */
+.page-link:hover {
+    background-color: #e9ecef;
+    color: #333;
+}
+
+/* 当前激活的分页项 */
+.page-item.active .page-link {
+    background-color: #354b44;
+    border-color: #354b44;
+    color: #fff;
+}
+
+/* 禁用状态的分页项 */
+.page-item.disabled .page-link {
+    color: #6c757d;
+    background-color: #f8f9fa;
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+/* 分页图标（箭头） */
+.page-link span {
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+/* 分页箭头悬停效果 */
+.page-item:not(.disabled) .page-link:hover span {
+    color: #354b44;
+}
