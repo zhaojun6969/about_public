@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>产品展示 on 赵军量化实录</title>
+    <link>http://localhost:1313/products/</link>
+    <description>Recent content in 产品展示 on 赵军量化实录</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>主机监控</title>
+      <link>http://localhost:1313/products/%E4%B8%BB%E6%9C%BA/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/products/%E4%B8%BB%E6%9C%BA/</guid>
+      <description>&lt;h3 id=&#34;主要功能&#34;&gt;主要功能&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;获取交易主机实时在线状态，并发送警报&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;br/&gt;</description>
+    </item>
+  </channel>
+</rss>
