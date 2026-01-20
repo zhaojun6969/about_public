@@ -9,11 +9,11 @@
     <lastBuildDate>Sun, 12 Jan 2025 12:03:24 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/timeline/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>博客搭建教程</title>
+      <title>重要节点规划</title>
       <link>http://localhost:1313/timeline/project/</link>
       <pubDate>Sun, 12 Jan 2025 12:03:24 +0800</pubDate>
       <guid>http://localhost:1313/timeline/project/</guid>
-      <description>&lt;ul class=&#34;timeline timeline-vertical&#34;&gt;&#xA;  &lt;li&gt;&#xA;    &lt;div class=&#34;timeline-start timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;20250201&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;等待开发&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;  &lt;li&gt;&#xA;    &lt;hr /&gt;&#xA;    &lt;div class=&#34;timeline-end timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;20250101&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;博客上线&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;  &lt;li&gt;&#xA;    &lt;hr /&gt;&#xA;    &lt;div class=&#34;timeline-start timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;20241001&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;博客开发&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul class=&#34;timeline timeline-vertical&#34;&gt;&#xA;  &lt;li&gt;&#xA;    &lt;hr /&gt;&#xA;    &lt;div class=&#34;timeline-end timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;待进行&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;交易底层逻辑整理，待进行&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;  &lt;li&gt;&#xA;    &lt;hr /&gt;&#xA;    &lt;div class=&#34;timeline-start timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;进行中&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;量化主机监控开发中&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;  &lt;li&gt;&#xA;    &lt;hr /&gt;&#xA;    &lt;div class=&#34;timeline-end timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;20260101&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;博客上线&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;  &lt;li&gt;&#xA;    &lt;hr /&gt;&#xA;    &lt;div class=&#34;timeline-start timeline-box&#34;&gt;&#xA;        &lt;b class=&#39;text-success&#39;&gt;20261201&lt;/b&gt;&#xA;        &lt;br/&gt;&#xA;        &lt;p&gt;博客开发&lt;/p&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;hr /&gt;&#xA;  &lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
