@@ -33,14 +33,14 @@ h6 {
 }
 
 .mark h1 {
-    font-size: 2em;
+    font-size: 1.6em;
     border-bottom: 1px solid #ddd;
     padding-bottom: 0.3em;
     font-weight: 700;
 }
 
 .mark h2 {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-weight: 600;
     color: #444;
 }
